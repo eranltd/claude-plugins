@@ -8,14 +8,14 @@
   "plugins": [
     {
       "name": "kiss",
-      "source": { "source": "github", "repo": "eranltd/kiss" },
+      "source": { "source": "url", "url": "https://github.com/eranltd/kiss.git" },
       "description": "Keep it simple: explain any tech topic to a developer as one plain HTML page. The whole flow at a glance, then zooms with the real names. Use /kiss <topic>.",
       "category": "learning",
       "homepage": "https://github.com/eranltd/kiss"
     },
     {
       "name": "pixel-pet",
-      "source": { "source": "github", "repo": "eranltd/pixel-pet" },
+      "source": { "source": "url", "url": "https://github.com/eranltd/pixel-pet.git" },
       "description": "Bit, a pixel puppy above your Claude Code prompt: a board of every session on your machine, plan progress, PR and CI status, and a Slack inbox, as one mod.",
       "category": "productivity",
       "homepage": "https://github.com/eranltd/pixel-pet"
